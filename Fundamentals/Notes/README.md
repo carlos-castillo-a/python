@@ -1,4 +1,4 @@
-# Python Fundamentals | Page 1
+# Python Fundamentals | Section 1
 
 These notes delve into the essential concepts of Python programming, aiming to clarify the foundations for beginners and act as a handy guide for those already versed in the language. Topics covered include data types, conditional statements, handling input and output, lists, and looping techniques, all presented with clear examples for better understanding.
 
@@ -79,5 +79,5 @@ for item in ["LOL", "IDK", "TBH"]:
 ```
 
 ___
-_Current: [Page 1](README.md) | Next: [Page 2](page-2.md)_
+_Current: [Section 2](README.md) | Next: [Section 2](section-2.md)_
 
