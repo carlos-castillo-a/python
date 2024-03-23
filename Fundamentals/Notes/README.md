@@ -27,6 +27,15 @@ Python 3.11.1 (v3.11.1:a7a450f84a, Dec  6 2022, 15:24:06) on darwin
 ## Input & Output
 - To show information to the user, use the `print()` function.
 - To get information from the user, use `input()`, which waits for the user to type something and press enter.
+```python
+# Printing to the console
+print("Hello, world!")
+
+# Taking input from the user
+user_input = input("Enter your name: ")
+print(f"Hello, {user_input}!")
+
+```
 
 ## Data Types
 In Python, the type of a variable (like integer or string) is determined by the value you give it. Here's a quick rundown:
@@ -68,3 +77,7 @@ for item in ["LOL", "IDK", "TBH"]:
     print(item)
 # This loop prints each acronym in the list.
 ```
+
+---
+**current: [page 1](README.md) | next: [page 2](link-to-the-next-page.md)**
+---
