@@ -6,13 +6,13 @@ Welcome to my Python Practice Repository! This is where I document my learning j
 
 ## Folders
 
-### [Fundamentals](./Fundamentals/)
+### [Fundamentals](./fundamentals/)
 
 This folder is home to exercises and scripts covering Python basics, including syntax, data types, control structures, functions, and basic error handling.
 
-- [See my notes](Fundamentals/Notes/)
+- [See my notes](fundamentals/notes/)
 
-### [Object-Oriented Programming and Files](./Object-Oriented-Programing/Notes/) [UNPUBLISHED]
+### [Object-Oriented Programming and Files](./Object-Oriented-Programing/notes/) [UNPUBLISHED]
 
 Here, you'll find materials focused on classes, object-oriented programming practices in Python, and working with files.
 
@@ -24,13 +24,13 @@ Dedicated to web development topics, this folder contains projects and code labs
 
 - _Notes to come_
 
-### [Database Interaction and Best Practices](./Database-Interaction-and-Best-Practices/Notes/) [UNPUBLISHED]
+### [Database Interaction and Best Practices](./Database-Interaction-and-Best-Practices/notes/) [UNPUBLISHED]
 
 Focuses on interacting with databases and implementing Python best practices. It includes exercises on development environments, package management, and testing in Python.
 
 - _Notes to come_
 
-### [Advanced Concepts](./Advanced-Concepts/Notes/) [UNPUBLISHED]
+### [Advanced Concepts](./Advanced-Concepts/notes/) [UNPUBLISHED]
 
 This folder is reserved for advanced Python topics, including performance optimization, decorators, and design patterns.
 
