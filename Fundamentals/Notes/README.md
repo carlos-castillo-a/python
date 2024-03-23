@@ -1,4 +1,7 @@
 # Python Fundamentals
+
+![header](../../docs/header-01.png)
+
 These notes provide a comprehensive overview of fundamental Python programming concepts, tailored for both beginners looking to grasp the basics and for seasoned programmers seeking a quick reference. Covered topics include data types, conditional statements, input/output operations, lists, and loops, enhanced with practical examples to facilitate a deeper understanding of the language.
 
 > _Enhanced with ChatGPT-4 AI_

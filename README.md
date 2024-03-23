@@ -1,6 +1,6 @@
 # Python Practice Repository
 
-![header](docs/header.png)
+![header](docs/header-00.png)
 
 Welcome to my Python Practice Repository! This is where I document my learning journey through various Python courses and code labs, ranging from fundamental principles to advanced programming techniques. The purpose of this repository is to serve as both a personal record of my progress and as a resource for other learners who might benefit from the exercises, examples, and projects contained within.
 
