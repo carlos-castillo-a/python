@@ -1,4 +1,4 @@
-# Python Fundamentals | Section 1
+# Python Fundamentals | Section 2
 
 Notes continued.
 

@@ -65,7 +65,7 @@ acronyms = ["LOL", "IDK", "SMH", "TBH"]
 acronyms.append("JK")  # Adds "JK" to the end of the list
 acronyms.remove("SMH") # Removes "SMH" from the list
 del acronyms[2]        # Removes the third item from the list
-# Resulting list: ["LOL", "IDK", "TBH", "JK"]
+# Resulting list: ["LOL", "IDK", "JK"]
 ```
 
 ## Loops
