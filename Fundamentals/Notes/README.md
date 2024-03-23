@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Python Fundamentals | Page 1
 
 These notes delve into the essential concepts of Python programming, aiming to clarify the foundations for beginners and act as a handy guide for those already versed in the language. Topics covered include data types, conditional statements, handling input and output, lists, and looping techniques, all presented with clear examples for better understanding.
 
@@ -78,6 +78,6 @@ for item in ["LOL", "IDK", "TBH"]:
 # This loop prints each acronym in the list.
 ```
 
----
-**current: [page 1](README.md) | next: [page 2](link-to-the-next-page.md)**
----
+___
+_Current: [Page 1](README.md) | Next: [Page 2](page-2.md)_
+
