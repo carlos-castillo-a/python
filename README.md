@@ -6,7 +6,7 @@ Welcome to my Python Practice Repository! This is where I document my learning j
 
 ## Folders
 
-### [Fundamentals](./Fundamentals)
+### [Fundamentals](./Fundamentals/)
 
 This folder is home to exercises and scripts covering Python basics, including syntax, data types, control structures, functions, and basic error handling.
 
