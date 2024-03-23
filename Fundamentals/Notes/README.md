@@ -5,12 +5,28 @@ These notes delve into the essential concepts of Python programming, aiming to c
 > _Enhanced with GPT-4 from OpenAI_
 
 ### Table of Contents
+- [Interactive Shell](#interactive-shell)
+- [Input & Output](#input--output)
 - [Data Types](#data-types)
 - [Conditionals](#conditionals)
 - [Lists](#lists)
 - [Loops](#loops)
-- [Interactive Shell](#interactive-shell)
-- [Input & Output](#input--output)
+
+## Interactive Shell
+The Python shell lets you write and test code quickly, directly in the terminal or command prompt. It's great for experiments, though editing code can be tricky.
+```bash
+python3
+Python 3.11.1 (v3.11.1:a7a450f84a, Dec  6 2022, 15:24:06) on darwin
+>>> amount = 100
+>>> tax = 0.0625
+>>> total = amount + amount * tax
+>>> print(total)
+106.25
+```
+
+## Input & Output
+- To show information to the user, use the `print()` function.
+- To get information from the user, use `input()`, which waits for the user to type something and press enter.
 
 ## Data Types
 In Python, the type of a variable (like integer or string) is determined by the value you give it. Here's a quick rundown:
@@ -52,19 +68,3 @@ for item in ["LOL", "IDK", "TBH"]:
     print(item)
 # This loop prints each acronym in the list.
 ```
-
-## Interactive Shell
-The Python shell lets you write and test code quickly, directly in the terminal or command prompt. It's great for experiments, though editing code can be tricky.
-```bash
-python3
-Python 3.11.1 (v3.11.1:a7a450f84a, Dec  6 2022, 15:24:06) on darwin
->>> amount = 100
->>> tax = 0.0625
->>> total = amount + amount * tax
->>> print(total)
-106.25
-```
-
-## Input & Output
-- To show information to the user, use the `print()` function.
-- To get information from the user, use `input()`, which waits for the user to type something and press enter.
