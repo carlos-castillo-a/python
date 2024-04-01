@@ -6,5 +6,8 @@ Notes continued.
 
 ### Table of Contents
 
+
+## 
+
 ___
 _Current: [Section 2](README.md)_
