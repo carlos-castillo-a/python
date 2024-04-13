@@ -10,4 +10,5 @@ Notes continued.
 ## 
 
 ___
-_Current: [Section 2](README.md)_
+___
+_Previous: [Section 1](README.md)

@@ -79,5 +79,5 @@ for item in ["LOL", "IDK", "TBH"]:
 ```
 
 ___
-_Current: [Section 2](README.md) | Next: [Section 2](section-2.md)_
+_Next: [Section 2](section-2.md)_
 
